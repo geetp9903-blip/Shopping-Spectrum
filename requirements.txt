@@ -8,3 +8,5 @@ ipykernel>=6.20.0
 nbformat>=5.7.0
 nbconvert>=7.2.0
 joblib>=1.2.0
+streamlit
+plotly
